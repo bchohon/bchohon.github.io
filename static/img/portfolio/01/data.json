@@ -1,0 +1,51 @@
+{
+    "client": "eHarmony, Inc.",
+    "info": [
+        {
+            "title": "Registration",
+            "text": "The Registration page is the default landing page of the website and serves two primary purposes: 1.) it is the main entry point for new users into the company's core dating product, and 2.) it is an informational page filled with SEO content about the company. Since this page is critical to conversion metrics, it is one of the most highly tested pages on the website."
+        },
+        {
+            "title": "Relationship Questionnaire",
+            "text": "Better known as the R.Q., this feature is where the company assesses its users with an in-depth survey which covers everything from basic personal preferences to complex compatibility analysis. The answers are plugged into a series of complex matching algorithms that leverage eHarmony's patented 29 dimensions of compatibility to determine a pool of compatible matches."
+        },
+        {
+            "title": "Subscription",
+            "text": "The Subscription page represents the bottom of the conversion funnel and is where active users become subscribers. The entire flow is comprised of three pages: 1.) Plan Selection, 2.) Billing, and 3.) Congratulations. A custom A/B...N Testing framework sits on top of the main Subscription codebase and is responsible for conducting various user-interface tests aimed at increasing key conversion metrics."
+        },
+        {
+            "title": "Dashboard",
+            "text": "The Dashboard feature is an aggregation layer which compiles all of your compatible matches' website activity into one long newsfeed page. The various newsfeed items include: page views notifications, profile page updates, photo uploads, and user-initiated communication."
+        },
+        {
+            "title": "Matches",
+            "text": "The Match Listing feature is the most visited module on the site. This gallery view presents users with a complete list of their compatible matches and a series of filters for sorting and grouping matches into specific categories. A handful of new compatible matches are added to the site each day and previous matches are lazy-loaded as a user scrolls down the page."
+        },
+        {
+            "title": "Match Profile (Cover Page)",
+            "text": "Once a user clicks on a compatible match, they will be taken to the Match Profile feature. The Match Profile was designed to look and feel like a magazine-style layout and the very first page features a large cover photo and basic user statistical insight such as age, height, location, occupation, and more."
+        },
+        {
+            "title": "Match Profile (Page 2)",
+            "text": "All of the content detailed in this particular feature is designed to adjust to the height of the browser's viewport and dynamically flow based on a series of complex client-side calculations. Keeping with the theme of the magazine-style layout, each page flows horizontally and uses a number of interesting fonts and user-generated content components."
+        },
+        {
+            "title": "Communication",
+            "text": "The Comm feature is where users can communicate with their compatible matches. The product is broken into two primary components: 1.) Guided Comm, which allows users to step through a series of pre-selected questions and answers, and 2.) Open Comm, which allows users to communicate freely with users (similar to email or instant messaging)."
+        },
+        {
+            "title": "Settings",
+            "text": "The Settings feature allows users to edit important match settings and account-related information. Some of the most common use cases are residential location, occupation, and common user preferences like pets, drinking, children, etc. Most of the editable information found in the settings page was from data answered during the R.Q."
+        },
+        {
+            "title": "Book of You (Cover Page)",
+            "text": "The company's ultimate goal is to create long-lasting marriages. After 40 years of working as a professional psychologist, eHarmony Founder Dr. Neil Clark Warren, believes that in order to be happy in a committed relationship, you must first understand yourself. The Book of You is a product feature designed for users to learn about themselves."
+        },
+        {
+            "title": "Book of You (Inner Content)",
+            "text": "The Book of You utilizes the same data from the R.Q. and uses their answers to form a psychological evaluation aimed at educating users about their potential strengths and weaknesses. The feature pushes the concept of skeuomorphic design and integrates three-dimensional animations to mimic the sensation of a real book."
+        }
+    ],
+    "project": "Web Application",
+    "technology": "HTML, CSS, JavaScript, Node.js"
+}

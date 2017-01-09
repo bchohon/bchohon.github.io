@@ -1,0 +1,39 @@
+{
+    "client": "America's IRA Centers™, Inc.",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "America's IRA Centers™ (AIC) is a financial business, which focuses on IRAs and other longterm retirement strategies. The company operates on a national level and has storefronts all across the country. The website is informational and its primary purpose is to connect interested parties with their neighborhood location."
+        },
+        {
+            "title": "Services",
+            "text": "The Services landing page highlights some of the more popular services the company offers to its clients. The page layout is straightforward with skip navigation links shown in the left column and corresponding section information shown in the main content body. A uniform layout and consistent photo treatment provides visual interest without taking away from the importance of the accompanying text."
+        },
+        {
+            "title": "IRA Resources",
+            "text": "The IRA Resources page offers expanded information about key retirement terms and phrases, while answering common industry-related questions. Once again, the page provides skip navigation links shown in the left column and corresponding section information shown in the main content body."
+        },
+        {
+            "title": "News",
+            "text": "The News landing page spotlights a mixture of current company news, which is written by employees, as well as trending industry news provided by third-party columnists and industry aficionados. The left column on this page is reserved for company-hosted seminars, workshops, and other public events."
+        },
+        {
+            "title": "Locations",
+            "text": "The Locations landing page presents the viewer with two different methods of obtaining more information about their neighborhood storefront: a clickable interactive map narrows results by state and a list of text links outlines the featured (or most popular) locations."
+        },
+        {
+            "title": "Location Profile",
+            "text": "Each individual storefront is represented on the website with a unique, location-specific landing page. These pages chronicle important details about each branch, including: a picture of the storefront, contact information, hours of operation, a brief bio about the Managing Director along with a headshot, a local event calendar, and an interactive Google Map with directions."
+        },
+        {
+            "title": "About Us",
+            "text": "The About Us landing page provides a few brief paragraphs about the company, which is intended to hook the reader and leave them wanting to learn more from their local branch. The locations map is conveniently placed in the left column and prominently featured for all interested parties."
+        },
+        {
+            "title": "Contact Us",
+            "text": "The Contact Us landing page presents the contact information for the corporate headquarters, hours of operation, a picture of the corporate office building, and an interactive Google Map with directions."
+        }
+    ],
+    "project": "Corporate Website",
+    "technology": "HTML, CSS, JavaScript, Flash"
+}

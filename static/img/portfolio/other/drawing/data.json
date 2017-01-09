@@ -1,0 +1,23 @@
+{
+    "client": null,
+    "info": [
+        {
+            "title": "Human Musculature (Side View)",
+            "text": "The following image is a depiction of the human musculature labeled by the scientific classifications. This piece is an example of a classic line drawing where the entire composition is composed through the use of subtle line variations and mixed pencil pressure sensitivity."
+        },
+        {
+            "title": "Human Cross-Section (Back View)",
+            "text": "An alternate view, part of the same series.  This particular image is a medical cross-section, which contrasts the human musculature against the outermost skin tissue. The musculature is again depicted as a classic line drawing, while the skin tissue is composed using softer shading techniques."
+        },
+        {
+            "title": "Human Cross-Section (Front View)",
+            "text": "An alternate view, part of the same series.  This image offers a different view of a human body cross-section. This time, however, both sides of the image are composed through layering of both classic line drawing and softer shading techniques."
+        },
+        {
+            "title": "Human Skeletal Scan (Front View)",
+            "text": "An alternate view, part of the same series.  The following image depicts an x-ray scan of the human body and examines the human skeletal structure of the chest cavity and lower torso."
+        }
+    ],
+    "project": "Human Musculature Study",
+    "technology": "Pencil on Paper (8½ x 11\")"
+}

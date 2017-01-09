@@ -1,0 +1,39 @@
+{
+    "client": "Hotline, Inc.",
+    "info": [
+        {
+            "title": "Login",
+            "text": "Hotline is a real-time communication web application, and the first place winner in the 2014 eHarmony, Inc. Hackathon competition. The concept for the app is to connect logged-in users via geolocation, then promote unrestricted communication between the connected parties. Possible use cases for the application, include: casual conversation, making new friends, or establishing dating relationships. The login page is the entry point for returning users."
+        },
+        {
+            "title": "Registration",
+            "text": "The registration page is where new users can signup to join the Hotline community. Registration is free and is as easy as entering five required fields (name, age, zip, email, and password), and uploading an optional photo. The goal of registration is to keep things simple and get users into the site as quickly as possible."
+        },
+        {
+            "title": "Dashboard",
+            "text": "After logging in, users land on the dashboard where they are presented with a scrollable menu of other people who are also using the application. The dashboard contact list is sorted by proximity to the user's current location. Once a contact is selected from the list, the user is taken to the text chat feature."
+        },
+        {
+            "title": "Text Chat",
+            "text": "The text chat feature has a user-interface reminiscent of a native text messaging application. However, the Hotline app can be accessed from any browser-capable device and offers users the ability to communicate with people outside of their network. Event driven WebSocket technology is used to connect users and instantly deliver new messages and/or content as soon as it's received by the server."
+        },
+        {
+            "title": "Video Prompt",
+            "text": "Within the text chat feature, users also have the option to switch to video chat by clicking on the video camera icon in the top right corner of the header. Once the video camera icon is clicked, the opposite user will see the following prompt on their screen. If they choose to accept, both users will proceed to video chat. If the invitation is declined, the prompt will close and text chat will resume."
+        },
+        {
+            "title": "Video Chat",
+            "text": "The video chat feature allows users to talk to one another using WebRTC technology. The user-interface functions much the same as FaceTime or Skype. However, the Hotline app allows users to safely communicate through the application without needing to exchange any personal information."
+        },
+        {
+            "title": "Badge Notification",
+            "text": "While engaged in text chat or live video, users retain the ability to communicate with others who are logged into the application. When new messages are received, a red badge notification will appear in the header bar near the menu icon. The badge notification is emphasized with a subtle hearbeat pulse animation, and once clicked will slide open the contacts list."
+        },
+        {
+            "title": "Contacts List",
+            "text": "The badge notification in the header represents an aggregate total of all the user's unread messages. However, when the contacts list is toggled open, the appropriate count will appear next to each relevant contact. The highlighted top row indicates the active conversation, while the remaining users are sorted by engagment followed by proxmity. The contacts list allows users to seamlessly toggle between multiple conversations."
+        }
+    ],
+    "project": "Chat Application",
+    "technology": "HTML, CSS, JavaScript"
+}

@@ -1,0 +1,69 @@
+{
+    "client": "Van Dyke's Restorers®",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "A former subsidiary of Cabela's, Inc., Van Dyke's Restorers® is a catalog company which has since been converted to an eCommerce marketplace. The company specializes in the niché business of vintage home restoration and offers a range of antiques and period-inspired accents. The introductory page advertises current promotions and offers consumers a number of ways to shop, including: a search box, the daily deal, and a group of featured categories."
+        },
+        {
+            "title": "Nav Menu",
+            "text": "The main navigation is presented as a horizontal drop down menu that features icons for the top five most popular categories, text links for all pertaining subcategories and subsections, and a space for optional promotional banners."
+        },
+        {
+            "title": "Category Page",
+            "text": "The category page is the highest level of product sorting and groups items by the most general product group classifications."
+        },
+        {
+            "title": "Subcategory Page",
+            "text": "The subcategory page is the second level of product sorting and groups items by the more specific product group classifications."
+        },
+        {
+            "title": "Section Page",
+            "text": "The section page serves as the product sort page, where consumers can refine their product selection by sorting and filtering on options related to the items on the page. Item-specific filtering options include: Department, Product Type, Style, Finish, Length, Width, Height, and Price."
+        },
+        {
+            "title": "Product Page (Tab 1)",
+            "text": "The product page details all of the product-specific information, including: Unit pricing, available sizing, finish options, images with zoom functionality and alternate views, product description, product specifications, customer reviews, and related item recommendations."
+        },
+        {
+            "img": "07",
+            "title": "Product Page (Tab 2)",
+            "text": "An alternate product page view shows the \"Specifications\" tab selected. The specifications tab outlines a list of technical guidelines, including: Measurements, materials, and more."
+        },
+        {
+            "img": "08",
+            "title": "Product Page (Tab 3)",
+            "text": "An alternate product page view shows the \"Reviews\" tab selected. Each review is comprised of a one-to-five star rating, a review title, and summary text. The date-time stamp and username are added by the system at the time of submission."
+        },
+        {
+            "title": "Shopping Cart",
+            "text": "The shopping cart details an itemized view of the products in your cart and offers the ability to edit, remove, or save the entire cart for purchase later."
+        },
+        {
+            "title": "Checkout",
+            "text": "The checkout features a single page process that collects all of the required user information on one screen."
+        },
+        {
+            "title": "Checkout Review",
+            "text": "The Checkout Review page provides users with one last opportunity to double-check the accuracy of their information and/or modify their existing items in their cart."
+        },
+        {
+            "title": "Checkout Confirmation",
+            "text": "The Checkout Confirmation page signifies the order was accepted.  Once this page is reached, an automated e-mail is triggered and sends the customer a receipt detailing all of the order details."
+        },
+        {
+            "title": "Catalog Quick Order",
+            "text": "Although printed catalogs are no longer mailed out in bulk shipments, they can be requested on the website and a number of personal subscriptions still remain in circulation. The Catalog Quick Order page allows catalog readers to checkout in a quick and efficient manner with a one page interface; simply enter the item number, desired quantity, select option preferences (if available) and click the \"Add to Cart\" button."
+        },
+        {
+            "title": "eCatalog",
+            "text": "As part of the transition from a printed catalog to a digital website, the company elected to provide longtime catalog lovers with an electronic catalog interface. Using Adobe Flash or HTML5 technologies (determined by the browser being used), the consumer can page through and click on items to enjoy a unique interactive shopping experience."
+        },
+        {
+            "title": "eCatalog (Full Screen)",
+            "text": "Expanded full screen view of the electronic catalog interface."
+        }
+    ],
+    "project": "eCommerce Store",
+    "technology": "HTML, CSS, JavaScript"
+}

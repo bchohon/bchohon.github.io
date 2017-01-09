@@ -1,0 +1,47 @@
+{
+    "client": "Travalet",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "Travalet is a boutique concierge travel management team. The primary purpose of the website is to serve as an informational corporate site, which also has the ability to drive lead generation. The home page features a responsive \"Flight Info\" form for collecting user-entered travel arrangements and provides other important supplemental information, including: top three services, featured destination deals, blog, and newsletter signup."
+        },
+        {
+            "title": "Home Page (Fixed Header)",
+            "text": "One of the most important design requirements for the website was to make the contact information prominent and easily accessible to their customers. To accommodate this request, the large masthead header is replaced with a smaller, more streamlined, header that fixes to the top of the browser when a user scrolls down the page."
+        },
+        {
+            "title": "Home Page (UI Effects)",
+            "text": "The website is a responsive grid which flexes based on user resolution and has a few special user interface effects. First off, the phone number located in the header features a custom dropdown menu, which is pre-selected based on the nearest country proximity based on the user's geolocation. Secondly, the \"Featured Destinations\" content is a flip card which displays daily deals."
+        },
+        {
+            "title": "Services",
+            "text": "The services page is pretty straight-forward informational page. It's basically just an expanded, in-depth version of the content outlined on the home page. Each service starts with an introductory paragraph summarizing what the differentiating benefits of the service followed by an itemized list of key features and a few accompanying images for visual reference."
+        },
+        {
+            "title": "About",
+            "text": "The about page is another supplementary informational page. The page is broken up into three main categories: 1. \"Our Story\", which surfaces background information about who the company is and what their value is to potential users, 2. \"Our Values\", which describes how the company defines their basic ethos and principles, and 3. \"Our Team\", which introduces individual employees including each person's role, their basic responsibilities, and contact information."
+        },
+        {
+            "title": "Blog Newsfeed (Home Page)",
+            "text": "The newsfeed page serves as an aggregation layer for all of the company's blog articles. The most recent posting is spotlighted with a unique layout which consumes the entire first row. In addition to standard pagination, the user also has the ability to filter via the sidebar, which includes: search box, popular articles, an archive based on month and year, categories, and popular tags."
+        },
+        {
+            "title": "Blog Newsfeed (Subsequent Pages)",
+            "text": "The first page of the newsfeed is the only one which features a unique layout for the most recent article. All subsequent pages follow the same template structure and display each article at the exact same proportion and scale."
+        },
+        {
+            "title": "Blog Posting",
+            "text": "The posting page is where users can read articles in their entirety. The main content area of the article is configurable and can be made to accommodate whatever the story requires whether it's supplementary images, dividers, special text formatting, etc. The posting page also features the same sidebar navigation from the Newsfeed pages to allow for easier navigation."
+        },
+        {
+            "title": "Contact",
+            "text": "The contact page is the final informational page and is comprised of three components: 1. contact information, including corporate phone numbers and mailing addresses, 2. a contact form for general comments and inquiries to the company, and 3. F.A.Q.s which are conveniently located at the bottom of the page to hopefully answer any common questions a user might have."
+        },
+        {
+            "title": "Flight Widget",
+            "text": "The Flight Widget is yet another point of contact for potential customers and mirrors the same information found on the home page form. Since lead generation was such a critical requirement for the site, a fixed \"Search Flights\" link can be found in the right gutter of the website and follows the user across all pages to allow another entry point into the travel form."
+        }
+    ],
+    "project": "Corporate Website",
+    "technology": "HTML, CSS, JavaScript, PHP"
+}

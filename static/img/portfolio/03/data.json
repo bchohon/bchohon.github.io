@@ -1,0 +1,247 @@
+{
+    "client": "allheart",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "allheart.com is an eCommerce superstore and the industry-leading retailer for online medical apparel, nursing footwear, and small diagnostics. The home page advertises current promotions and offers consumers a number of ways to shop, including: a search box, product list filtering, the daily deal, and a group of featured products specific to each user's browsing history."
+        },
+        {
+            "title": "Nav Menu",
+            "text": "The main navigation is presented as a horizontal drop down menu that features icons for the top five most popular categories, text links for all pertaining subcategories and subsections, and a space for optional promotional banners."
+        },
+        {
+            "title": "Category Page",
+            "text": "The category page is the highest level of product sorting and groups items by the most polarizing classifications, such as gender and/or body type."
+        },
+        {
+            "title": "Subcategory Page",
+            "text": "The subcategory page is the second-level of product sorting and groups items by personal preferences, such as garment and/or item type."
+        },
+        {
+            "title": "Section Page",
+            "text": "The section page serves as the product sort page, where consumers can refine their product selection by sorting and filtering on options related to the items on the page. Item-specific filtering options include: Brand, Style, Size, Color, and Price."
+        },
+        {
+            "title": "Section Page (Alternate)",
+            "text": "The longterm vision for the section page is to change the vertical side refinements to a horizontal orientation, which could then be pinned at the top of the screen when the user scrolls down the page. The new format would also allow more products to be shown above the fold as well as on the greater page."
+        },
+        {
+            "title": "Product Page (Tab 1)",
+            "text": "The product page details all of the product-specific information, including: Unit pricing, available sizing, color options, images with zoom functionality and alternate views, product description, customer reviews, brand-specific size chart, personalization (if available), and matching item recommendations."
+        },
+        {
+            "title": "Product Page (Tab 2)",
+            "text": "An alternate product page view shows the \"Reviews\" tab selected. Each review is comprised of a one-to-five star rating, a review title, and summary text. The date-time stamp and username are added by the system at the time of submission."
+        },
+        {
+            "title": "Product Page (Tab 3)",
+            "text": "An alternate product page view shows the \"Size Chart\" tab selected. The size chart lists the measurements for Bust, Waist, Hip, and includes an accompanying chart that defines the proper way to measure each body part."
+        },
+        {
+            "title": "Product Page (Tab 4)",
+            "text": "An alternate product page view shows the \"Personalization\" tab selected. The personalization information is an overview of available options and includes a number of photography samples of personalized garments."
+        },
+        {
+            "title": "Product Page (Personalization UI)",
+            "text": "When a user clicks the \"Add Personalization\" link, a personalization interface launches in a secondary window that allows users to enter their desired options and then preview their selections without navigating away from the current page."
+        },
+        {
+            "title": "Product Page (Personalization Confirmation)",
+            "text": "Once the desired options have been selected and saved in the personalization interface, the secondary window closes and the \"Add Personalization\" button is replaced with a green checkmark confirmation as well as edit and remove functionality."
+        },
+        {
+            "title": "Product Page (Add to Cart UI)",
+            "text": "When the user clicks the \"Add to Cart\" button, a mediatory window launches that offers the following three options: 1.) Pair With Matching Items, 2.) Continue Shopping (i.e. close this window), or 3.) Proceed to Checkout. The following \"fork-in-road\" interface was added to stimulate cross-sell opportunities while keeping checkout top of mind."
+        },
+        {
+            "title": "Shopping Cart",
+            "text": "The shopping cart details an itemized view of the products in your cart and offers the ability to edit, remove or save items for later. A second itemized view is located at the bottom of the page, where users can manage a list of saved items."
+        },
+        {
+            "title": "Shopping Cart (Sign-in UI)",
+            "text": "The sign-in interface launches a secondary window that allows users to sign-in to their account without navigating away from the current page."
+        },
+        {
+            "title": "Checkout",
+            "text": "The checkout features a single page process that collects all of the required user information on one screen. This is a revised approach from the company's previous three-page checkout (i.e. individual billing, shipping, and payment pages)."
+        },
+        {
+            "title": "Checkout (Gift Wrap Info)",
+            "text": "The following info bubble springs open on mouseover and displays expanded information about the option to Gift Wrap the current purchase."
+        },
+        {
+            "title": "Checkout (Gift Card Info)",
+            "text": "The following info bubble springs open on mouseover and displays expanded information about the option to add a handwritten Gift Card to the current purchase."
+        },
+        {
+            "title": "Checkout (CVV Info)",
+            "text": "The following info bubble springs open on mouseover and displays expanded information about the Credit Verification Value (CVV)."
+        },
+        {
+            "title": "Checkout (Gift Card UI)",
+            "text": "The Gift Card interface launches a secondary window that allows users to enter their personalized gift message without navigating away from the current page; the following approach keeps the checkout process moving forward and has resulted in fewer abandoned carts."
+        },
+        {
+            "title": "Checkout Review",
+            "text": "The Checkout Review page provides users with one last opportunity to double-check the accuracy of their information and/or modify their existing items in their cart."
+        },
+        {
+            "title": "Checkout Confirmation",
+            "text": "The Checkout Confirmation page signifies the order was accepted.  Once this page is reached, an automated e-mail is triggered and sends the customer a receipt detailing all of the order details."
+        },
+        {
+            "title": "About Us (Slide 1)",
+            "text": "The about us page is a peripheral landing page containing pertinent information and key selling points about the company. To make the page a bit more exciting, the information is presented in a slideshow format with accompanying imagery. The first slide is titled \"About Us\" and discusses the company's presence on the web."
+        },
+        {
+            "title": "About Us (Slide 2)",
+            "text": "The second slide is titled \"Experience\" and details general background information about the company and their executive management team."
+        },
+        {
+            "title": "About Us (Slide 3)",
+            "text": "The third slide is titled \"Selection\" and boasts the company's product assortment and low prices."
+        },
+        {
+            "title": "About Us (Slide 4)",
+            "text": "The fourth slide is titled \"Service\" and displays the contact information and hours of operation of the company's customer service department."
+        },
+        {
+            "title": "About Us (Slide 5)",
+            "text": "The fifth and final slide is titled \"Satisfaction\" and outlines the company's generous satisfaction guarantee policy."
+        },
+        {
+            "title": "Certified Profile Partnership",
+            "text": "The following landing page is an exclusive promotion for nursing students affiliated with a partnering company called Certified Profile.  The page features a selection of product links pertinent to recent graduates and offers a series of special discount codes."
+        },
+        {
+            "title": "Coupons",
+            "text": "The Coupons Page displays all of the current coupon promotions being offered for the given month. The page was created to direct search engine coupon searches toward the company's website, instead of unaffiliated blogs and coupon-posting websites."
+        },
+        {
+            "title": "Coupons (Alternate)",
+            "text": "The landing page was designed to have a maximum of six small coupons (the most the company would offer at any given time). Although the page was coded with the flexibility to switch to a larger format if during a particular month the company chose to run only two or three coupons at a time."
+        },
+        {
+            "title": "Deal of the Day",
+            "text": "The Deal of the Day page spotlights the discount bargain of the day. The page uses the standard product page template and displays all of the special sale-themed design elements with the addition of one extra classification in the backend code."
+        },
+        {
+            "title": "Embroidery & Emblems",
+            "text": "Embroidery & Emblems Personalization is a peripheral landing page that outlines the available apparel personalization options, including: Pricing, thread color, font style, emblem types, and it even includes a number of photography samples of personalized garments."
+        },
+        {
+            "title": "Engraving",
+            "text": "Engraving Personalization is a peripheral landing page that outlines the available diagnostic personalization options, including: Pricing, font style, and it even includes a number of photography samples of personalized stethoscope heads and tubes."
+        },
+        {
+            "title": "F.A.Q.",
+            "text": "The F.A.Q. page is the largest informational page on the site and covers varying topics from company information to ordering information, shipping procedures, returns & exchanges, and more. The content is grouped by related categories and skip navigation is featured on the left hand column for quick access."
+        },
+        {
+            "title": "Holiday Gift Guide",
+            "text": "The Holiday Gift Guide is a promotional landing page that runs during the holidays and links users to special, handpicked gift-related categories."
+        },
+        {
+            "title": "Live Chat (Timed Popup)",
+            "text": "After a period of two minutes of inactivity on the shopping cart page, a timed popup launches in a secondary window and asks the user if they would like to live chat with a customer service representative to help them answer any questions and/or resolve any issues they may be experiencing."
+        },
+        {
+            "title": "Live Chat (UI Window)",
+            "text": "When the user clicks the \"Chat Now\" button, an instant message interface launches in a secondary window that allows the user to live chat with a customer service representative without navigating away from the current page."
+        },
+        {
+            "title": "allheart Microsite",
+            "text": "Microsites were created for a number of the company's top brands to give customers the feeling that they were shopping inside a boutique within the larger store; the design is reminiscent of the home page and the content is tailored to each specific brand, including accompanying informational pages and various interactive resources. The following image is the microsite home page for the allheart brand."
+        },
+        {
+            "title": "Barco Uniforms Microsite",
+            "text": "Microsite home page for the Barco Uniforms brand of medical apparel."
+        },
+        {
+            "title": "Cherokee Microsite",
+            "text": "Microsite home page for the Cherokee brand of medical apparel."
+        },
+        {
+            "title": "Cherokee Workwear Microsite",
+            "text": "Microsite home page for the Cherokee Workwear brand of medical apparel."
+        },
+        {
+            "title": "Dansko Microsite",
+            "text": "Microsite home page for the Dansko brand of nursing footwear and medical apparel."
+        },
+        {
+            "title": "Dickies Microsite",
+            "text": "Microsite home page for the Dickies brand of medical apparel."
+        },
+        {
+            "title": "Iguanamed Microsite",
+            "text": "Microsite home page for the IguanaMed brand of medical apparel."
+        },
+        {
+            "title": "Koi Microsite",
+            "text": "Microsite home page for the Koi brand of medical apparel."
+        },
+        {
+            "title": "Landau Microsite",
+            "text": "Microsite home page for the Landau brand of medical apparel."
+        },
+        {
+            "title": "Landau Pant Fit Guide",
+            "text": "An accompanying page of the Landau Microsite, the Landau Pant Fit Guide is an informational resource that helps educate customers on the subtle, but very distinct, differences of the brand's pant fit types. The page uses a custom JavaScript accordion effect to deliver the content in an interactive manner."
+        },
+        {
+            "title": "Landau Pant Fit Guide (View 1)",
+            "text": "Hovering over the first pant type shifts the other two panels aside and displays hidden graphics and accompanying text about the pant fit."
+        },
+        {
+            "title": "Landau Pant Fit Guide (View 2)",
+            "text": "Hovering over the second pant type shifts the other two panels aside and displays hidden graphics and accompanying text about the pant fit."
+        },
+        {
+            "title": "Landau Pant Fit Guide (View 3)",
+            "text": "Hovering over the third pant type shifts the other two panels aside and displays hidden graphics and accompanying text about the pant fit."
+        },
+        {
+            "title": "Littmann Microsite",
+            "text": "Microsite home page for the Littmann brand of stethoscopes and related accessories."
+        },
+        {
+            "title": "Littmann Comparison Chart",
+            "text": "An accompanying page of the Littmann Microsite, the Littmann Comparison Chart illustrates a side-by-side comparison of all current stethoscope models and contrasts the specifications of each scope. The product images and product titles are clickable and link to the corresponding product detail page."
+        },
+        {
+            "title": "Littmann Tube Color Guide",
+            "text": "An accompanying page of the Littmann Microsite, the Littmann Tube Color Guide offers shoppers the ability to narrow down their stethoscope search by color preference. The color swatches are clickable and trigger a new search query based on the selected color."
+        },
+        {
+            "title": "Nurse Mates Microsite",
+            "text": "Microsite home page for the Nurse Mates brand of nursing footwear and medical accessories."
+        },
+        {
+            "title": "Urbane Microsite",
+            "text": "Microsite home page for the Urbane brand of medical apparel."
+        },
+        {
+            "title": "Welch Allyn Microsite",
+            "text": "Microsite home page for the Welch Allyn brand of medical diagnostics and related accessories."
+        },
+        {
+            "title": "White Swan Microsite",
+            "text": "Microsite home page for the White Swan brand of medical apparel."
+        },
+        {
+            "title": "Order Status",
+            "text": "The Order Status page is where customers can check on the current status of a past order and learn the expected delivery date."
+        },
+        {
+            "title": "Privacy Policy",
+            "text": "The Privacy Policy page is a peripheral informational page discussing the company's legal responsibility to keep all information provided during checkout private, secure, and away from third-parties."
+        },
+        {
+            "title": "Site Map",
+            "text": "The Site Map features links to all of the website's category, subcategory, and section pages. The page is dynamically generated client-side using an efficient piece of custom JavaScript code, which clones the text links from the main nav menu and restyles them using the proper Symantec HTML markup of h2, h3, or h4 tags."
+        }
+    ],
+    "project": "eCommerce Store",
+    "technology": "HTML, CSS, JavaScript"
+}

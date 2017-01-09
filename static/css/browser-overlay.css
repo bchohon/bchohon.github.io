@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+
+/*****************************************************
+*****   Browser Overlay   ****************************
+*****************************************************/
+/* Overlay */
+#browser-overlay {display:block!important; height:100%; left:0; position:fixed; top:0; width:100%; z-index:10;}
+#browser-overlay aside {background:rgba(0,0,0,0.75); content:""; height:100%; left:0; position:absolute; top:0; width:100%;}
+#browser-overlay main {background:#fff; box-shadow:0 3px 5px rgba(0,0,0,0.5); height:400px; left:50%; margin:-200px 0 0 -300px; padding:50px; position:relative; text-align:center; top:50%; width:600px;}
+
+/* Text */
+#browser-overlay header {text-align:left;}
+#browser-overlay h1 {font-size:2rem;}
+#browser-overlay h2 {margin:15px 0;}
+
+/* Icons */
+#browser-overlay ul {display:inline-block; margin:25px 0 0;}
+#browser-overlay ul:after, #ie-alert ul:before {content:""; display:table;}
+#browser-overlay ul:after {clear:both;}
+#browser-overlay li {float:left; margin:0 10px; text-align:center; width:75px;}
+#browser-overlay li figure {background:url("../img/design/icons.png") no-repeat; display:block; height:75px; margin:0 0 10px;}
+#browser-overlay li:nth-of-type(1) figure {background-position:0 0; width:72px;}
+#browser-overlay li:nth-of-type(2) figure {background-position:-72px 0; width:74px;}
+#browser-overlay li:nth-of-type(3) figure {background-position:-221px 0; width:67px;}
+#browser-overlay li:nth-of-type(4) figure {background-position:-146px 0; width:75px;}
+
+

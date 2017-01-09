@@ -1,0 +1,207 @@
+{
+    "client": "Table Bay Financial Network, Inc.",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "Table Bay Financial Network, Inc. (TBFN) is a field marketing office that represents independent financial advisors on a national level. The website is dual-purposed as both a recruiting tool for potential clients as well as a resource center for existing clients. All images used in the website design were created in Photoshop or Illustrator without the use of stock imagery."
+        },
+        {
+            "title": "Nav Menu",
+            "text": "The main navigation features an animated drop down menu that slides out on mouseover; the drop down menu takes advantage of the CSS3 opacity property in supporting browsers and reverts to a 1px repeating transparent GIF in older browsers."
+        },
+        {
+            "title": "Calendar Quick View",
+            "text": "TBFN is well-known for their ongoing seminars and events, so it was important for the company to make them a focal point of the website. The home page features two separate event areas: 1.) a clickable calendar bar (located at the top of the page), which allows users to view events by month, and 2.) a rotating slideshow (located in the bottom left corner), which allows users to page through events by name."
+        },
+        {
+            "title": "About",
+            "text": "The following page is an example of a category page, which presents a brief summary and accompanying icon for all of the child-level subcategories. The About category page highlights company-specific information, including: Company History, Services, Employee Profile, and Career Opportunities."
+        },
+        {
+            "title": "Company History",
+            "text": "The Company History page offers a brief background about how the company was created as well as the significance behind the company name. An accompanying image breaks up the text and provides visual interest."
+        },
+        {
+            "title": "Services (Tab 1)",
+            "text": "The Introduction tab summarizes the multitude of different services the company offers in a succinct opening paragraph."
+        },
+        {
+            "title": "Services (Tab 2)",
+            "text": "The Branding tab outlines the various branding services the company extends to contracted clients. Preferred clients have the option to receive professional guidance to help them improve their existing brand identity or they can request assistance to develop a new, unique branding strategy."
+        },
+        {
+            "title": "Services (Tab 3)",
+            "text": "The Compliance tab describes the legal compliance and preventative regulatory services the company offers to select clients. The financial industry is heavily regulated by both state and federal government. So to help contracted clients keep compliant, the company provides access to legal advice and compliance consultation with their in-house Chief Legal Counsel."
+        },
+        {
+            "title": "Services (Tab 4)",
+            "text": "The Illustrations tab highlights the computer illustration services the company extends to select advisors. Illustrations consist of detailed line charts, graphs, and other supplementary aids, which visually compare and contrast the insurance options available to the contracted advisor's client(s). Custom illustrations are an effective asset for closing insurance sales."
+        },
+        {
+            "title": "Services (Tab 5)",
+            "text": "The Marketing tab introduces the various marketing services the company provides to their financial network. Over the years, TBFN has developed a number of anti-traditional sales systems and proven step-by-step marketing plans designed to help advisors gain increased exposure in their local markets. Marketing is the company's most renown service."
+        },
+        {
+            "title": "Services (Tab 6)",
+            "text": "The Training tab defines the different seminars, events, and training services the company offers to contracted clients. Events range from one-on-one coaching sessions with company executives to informal online webinars, private workshops, and more."
+        },
+        {
+            "title": "Services (Tab 7)",
+            "text": "The Rewards tab details the generous incentive-based programs the company uses to reward contracted clients for reaching production milestones and various sales achievements. A polaroid-style photo collage chronicles past rewards that have been awarded to their top earning clients. Typical prize packages include exotic car leases and destination vacations to dream locations all over the world."
+        },
+        {
+            "title": "Employee Profile",
+            "text": "The Employee Profile page spotlights each member of the team with a succinct biography that includes their name, job title, a professional headshot photograph, and a brief synopsis regarding prior work experience as well as any other pertinent credentials. Since the company operates on a nationwide front and their employees are not always accessible in person, it was important to have a page where clients could match a name with a face."
+        },
+        {
+            "title": "Career Opportunities",
+            "text": "The Career Opportunities page provides a complete listing of available job openings within the company. Each position is listed by job title and includes a brief description about the responsibilities and skill set required for the job."
+        },
+        {
+            "title": "Career Opportunity Posting",
+            "text": "Each Career Opportunity Posting has its own landing page, which expands upon the responsibilities and skill set required to fulfill the position. Appropriate steps for cover letter and application submission are outlined on the bottom of each page."
+        },
+        {
+            "title": "News Archive",
+            "text": "The News Archive is a repository for every news article the company has written, contracted, or contributed to since the company was founded in 2004. The current calendar year is selected by default and the most recent article is listed first. Users can page through past years using the arrow icons at the top of the page and view past articles by using the pagination controls located in the bottom right corner."
+        },
+        {
+            "title": "News Article",
+            "text": "The following page is an example of a news article. The majority of articles are plain text only. However, a number of them feature accompanying imagery, charts, and/or graphs when available. A \"Printer Friendly Version\" PDF link can be found at the bottom of every page, so readers have the ability to download, print, and/or share news articles."
+        },
+        {
+            "title": "Events",
+            "text": "The Events category page highlights a brief overview of each of the company's flagship seminars and workshops. Every company event features a branded accompanying image for visual familiarity across their different marketing channels."
+        },
+        {
+            "title": "Advisor Summit",
+            "text": "Each event landing page provides specific details about the event, including: the next scheduled date, time and location, a general overview, qualification or registration form, and a digital brochure (if available). The Advisors Summit is an annual three-day event the company uses for recruiting new financial advisors to join their network."
+        },
+        {
+            "title": "AIC University",
+            "text": "Event landing page for AIC University. AIC University is an invitation-only event aimed at transforming hand-selected financial advisors into IRA experts and eventual franchise owners/operators of TBFN's affiliate company America's IRA Centersâ„¢."
+        },
+        {
+            "title": "Best Practices",
+            "text": "Event landing page for Best Practices. Best Practices is a CPE-credited workshop where C.P.A.s can keep learn about pressing financial industry topics and how to navigate the potential accounting issues associated with them."
+        },
+        {
+            "title": "C.P.A. Advantage Edge",
+            "text": "Event landing page for C.P.A. Advantage Edge. The C.P.A. Advantage Edge program pairs financial advisors with local C.P.A.s to help stimulate profitable business-referral relationships."
+        },
+        {
+            "title": "C.P.A. Advantage Edge School",
+            "text": "Event landing page for C.P.A. Advantage Edge School. The C.P.A. Advantage Edge School is the educational workshop that precedes the C.P.A. Advantage Edge program. The workshop teaches financial advisors basic business etiquette rules and the proper way to approach and engage C.P.A.s. The accompanying image is a complex vector illustration created in Illustrator."
+        },
+        {
+            "title": "FastTrak Tour",
+            "text": "Event landing page for FastTrak Tour. The FastTrak Tour is a three-month long recruiting campaign that tours select cities around the United States in search of finding qualified financial advisors to join the company's financial network. The accompanying image is a 3D-rendering of a train that was altered in Photoshop."
+        },
+        {
+            "title": "IRA Summit",
+            "text": "Event landing page for IRA Summit. The IRA Summit is a two-and-a-half day seminar for educating financial advisors and C.P.A.s on anything and everything related to the world of IRAs. The IRA Summit is one of the company's premiere events."
+        },
+        {
+            "title": "Summer Educational Conference",
+            "text": "Event landing page for Summer Educational Conference (SEC). The SEC is a four-day/three-night conference, where contracted clients are encouraged to bring their families. Each meeting consists of an abridged 4 hour session to allow for ample family time and bonding with other members of the financial network. A whimsical hand-drawn cartoon super hero serves as the accompanying image for the event."
+        },
+        {
+            "title": "Top Gun Sales Strategies",
+            "text": "Event landing page for Top Gun Sales Strategies. The Top Gun Sales Strategies seminar is geared at helping financial advisors boost sales by employing the company's patented, step-by-step, anti-traditional sales system. The accompanying image pays homage to the Top Gun film and was created in Illustrator."
+        },
+        {
+            "title": "Calendar",
+            "text": "The Calendar interface features a complete list of all upcoming company events; the user can page forward or backward in time by choosing a month from the vertical list on the left or by designating a year by using the arrows at the top of the interface. Scheduled events are marked by their unique branded icon.  When an event icon is clicked, a Quick View interface pops up with expanded details about the event."
+        },
+        {
+            "title": "Calendar (Quick View)",
+            "text": "The Calendar Quick View interface provides specifics about the selected event, including: a general overview, qualification or registration form, and a digital brochure (if available)."
+        },
+        {
+            "title": "Resources",
+            "text": "The Resources category page introduces contracted clients to an exclusive suite of online resources. The goal of the suite is to promote increased access to important company forms, event brochures, insurance carrier contracts, video webinars, and other useful website links."
+        },
+        {
+            "title": "Advisor Rewards",
+            "text": "The company is well-known for their generous incentive-based programs used to reward contracted clients for reaching production milestones and various sales achievements. Typical prize packages include exotic car leases and destination vacations to dream locations all over the world."
+        },
+        {
+            "title": "Advisor Reward #1",
+            "text": "The Great Audi Giveaway is one of two reward packages offered for the current calendar year. This reward is unique from past lease giveaways due to the multi-teared structure and a larger variety of cars. The original print mailer was created in Indesign, then later deconstructed in Photoshop and hand coded into an HTML landing page."
+        },
+        {
+            "title": "Advisor Reward #2",
+            "text": "The second reward offered for the calendar year is an all-expenses paid four-day/three-night destination vacation to the J.W. Marriott Desert Springs Resort & Spa, located in Palm Springs, California. Production minimums are significantly lower than The Great Audi Giveaway and are more attainable for many advisors. The original print mailer was created in Indesign, then later deconstructed in Photoshop and hand coded into an HTML landing page."
+        },
+        {
+            "title": "Forms Library",
+            "text": "The forms library is a repository for in-house company forms and third-party insurance carrier contractual agreements. The landing page provides users with access to the most recent forms available any time of day. All documents in the Forms Library are in Adobe PDF format."
+        },
+        {
+            "title": "Online Form",
+            "text": "All in-house company forms are form-fillable and provide users with the option to complete the form online. Once all of the required fields have been filled-in, a submit button appears on the top of the page. Users can then submit the form directly from the PDF interface or print their completed answers for fax or mail submission. All form-fillable PDFs were created using Indesign and/or Acrobat."
+        },
+        {
+            "title": "eLibrary",
+            "text": "The eLibrary is an online digital library of interactive materials, such as: event brochures, product guides, newsletters, special reports, and more. The concept behind the page was to lower printing costs by offering clients printed materials in a user-friendly, electronic format."
+        },
+        {
+            "title": "Interactive eBook",
+            "text": "Each eBook opens in a popup window interface, which provides users with the option to view, print, download, and/or share materials with the click of a button. The layout is coded in percentages, so it is designed to fill the user's screen regardless of their monitor resolution. The interface relies on a mix of HTML, CSS, XML, and Flash technology to deliver the selected content."
+        },
+        {
+            "title": "Interactive eBook (Alt. View)",
+            "text": "An alternate view of the eBook interface. Page turning functionality can be performed manually by dragging the outer edges of the page or automatically by clicking the arrow interface in the bottom right corner. A chapter selection drop down allows for skip navigation to desired sections. Zoom functionality can be performed by double-clicking on the page or clicking the magnification icon in the tool bar."
+        },
+        {
+            "title": "Links",
+            "text": "The Links resource page provides contracted clients with a collection of useful third-party website links, including State Insurance Departments and Insurance Carriers."
+        },
+        {
+            "title": "Link (Expanded)",
+            "text": "Each third-party link opens in a fully functioning iframe popup window, which allows users to navigate the requested site without being taken away from the current site."
+        },
+        {
+            "title": "Product Info (Tab 1)",
+            "text": "Tab 1 of the Product Info page features a list of insurance carriers the company provides to their clients. The complete list includes almost 100 different insurance carriers and is an impressive selling point for independent advisors thinking about joining the network."
+        },
+        {
+            "title": "Product Info (Tab 2)",
+            "text": "Tab 2 of the Product Info page allows contracted clients to search a custom database via a popup window interface. The database shows a live feed of all available insurance carrier rates, ratings, and more. The interface also allows for filtered searches based on specific criteria relating to individual client(s) needs."
+        },
+        {
+            "title": "Webinars",
+            "text": "The company is well-known for their reoccurring webinar series, which discuss trending industry issues affecting the financial marketplace. All webinars are performed live, recorded, and later archived within the webinars landing page. The video player interface relies on a mix of HTML, CSS, XML, and Flash technology to deliver and stream the selected content."
+        },
+        {
+            "title": "Contact",
+            "text": "The Contact category page outlines the three preferred methods of communication: 1.) The Company Directory lists phone, fax, and e-mail information for each company employee, 2.) the Contact Form is an online message delivery system addressed to customer service, and 3.) Maps & Directions provides detailed instructions for navigating to the company headquarters."
+        },
+        {
+            "title": "Company Directory",
+            "text": "The Company Directory serves as an online Rolodex and details employee contact information. Name, job title, telephone number with direct extension, fax number, and e-mail address are listed in an easy-to-read format. A professional headshot photograph accompanies contact information, so users can easily find a face if they don't know the name."
+        },
+        {
+            "title": "Contact Form",
+            "text": "The Contact Form is an online message delivery system addressed to the company's customer service department. Website users have the option to fill-out the fields and submit comments, questions, and/or feedback directly from the website interface. Backend form operation is powered by server-side PHP code."
+        },
+        {
+            "title": "Map & Directions",
+            "text": "The Maps & Directions page features an interactive Google Map and lists street directions from either LAX or Burbank airport. Located at the bottom of the page, users have the option to print, download, and/or share a printer-friendly PDF, which details the exact same information as the landing page."
+        },
+        {
+            "title": "F.A.Q.",
+            "text": "The F.A.Q. page is a peripheral landing page that attempts to answer customer questions ranging from technical assistance to company-specific information, and more. Skip navigation is featured on the top of the page for quick access to the most popular questions."
+        },
+        {
+            "title": "Terms",
+            "text": "The Terms page outlines the legal terms and conditions of the website. Bullets, numbering, and other subtle text variation is used to make the text-heavy page more visually appealing and easier to read."
+        },
+        {
+            "title": "Site Map",
+            "text": "The Site Map page is an interactive listing of every single web page on the entire site. The 04 icons are clickable and expand/collapse to show/hide all of the child-level subcategories contained in each section."
+        }
+    ],
+    "project": "Corporate Website",
+    "technology": "HTML, CSS, JavaScript"
+}

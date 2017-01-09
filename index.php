@@ -1,0 +1,208 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+
+    <!-- Meta Data -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1">
+    <meta name="author" content="Benjamin A. Chohon">
+    <meta name="description" content="The official web design &amp; development portfolio of Benjamin A. Chohon.">
+    <meta name="keywords" content="Benjamin A. Chohon, Lead Front-end Software Engineer, Sr. Front-end Software Engineer, Lead Front-end Developer, Sr. Front-end Developer, Software Engineer, Software Development, Web Development, UI/UX Design, Website Design, HTML5, CSS3, JavaScript, AJAX, JSON, jQuery, Node.js, PHP, Los Angeles, Santa Monica, San Fernando Valley, California">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="initial-scale=1, minimal-ui=1, minimum-scale=1, user-scalable=0, width=device-width">
+    <title>BAC Portfolio</title>
+
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="static/img/design/favicon.ico">
+
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="static/css/bac.css">
+    <!--[if lte IE 9]><link rel="stylesheet" href="static/css/browser-overlay.css"><![endif]-->
+
+
+    <!-- Third-party JS -->
+    <script>
+        (function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-34303683-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+</head>
+<body>
+
+
+    <!-- Ceiling -->
+    <div id="ceiling">
+        <figure class="molding"></figure>
+    </div>
+
+
+    <!-- Wall -->
+    <div id="wall">
+        <header>
+            <a href="index.html"></a>
+        </header>
+        <main id="gallery">
+            <section class="frame">
+                <img src="static/img/portfolio/01/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/02/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/03/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/04/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/05/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/06/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/07/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/08/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/09/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/10/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/11/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+            <section class="frame">
+                <img src="static/img/portfolio/12/icon.jpg" alt="">
+                <aside>
+                    <figure></figure>
+                    <figure></figure>
+                </aside>
+            </section>
+        </main>
+        <footer>
+            <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.bacportfolio.com%2F" target="_blank"></a>
+            <a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.bacportfolio.com%2F&amp;profile=css3" target="_blank"></a>
+            <figure>&copy; 2009-<?= date('Y'); ?></figure>
+        </footer>
+    </div>
+
+
+    <!-- Floor -->
+    <div id="floor">
+        <figure class="molding"></figure>
+        <figure class="hardwood"></figure>
+    </div>
+
+
+    <!-- Browser Overlay -->
+    <section id="browser-overlay" style="display:none;">
+        <aside></aside>
+        <main>
+            <header>
+                <h1>Whoa &ndash; your device is old and out of touch!</h1>
+                <h2>Your internet browser does not support today&rsquo;s latest web standards and may not be compatible with this fancy website.</h2>
+                <h3>Try visiting us with one of the browsers below.</h3>
+            </header>
+            <ul>
+                <li>
+                    <a href="https://www.google.com/chrome/browser/">
+                        <figure></figure>
+                        <figcaption>Chrome</figcaption>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.mozilla.org/en-US/firefox/new/">
+                        <figure></figure>
+                        <figcaption>Firefox</figcaption>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://support.apple.com/downloads/safari">
+                        <figure></figure>
+                        <figcaption>Safari</figcaption>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
+                        <figure></figure>
+                        <figcaption>IE 10+</figcaption>
+                    </a>
+                </li>
+            </ul>
+        </main>
+    </section>
+
+
+    <!-- Third-Party JS -->
+    <script src="static/js/libs/jquery.js"></script>
+    <script src="static/js/libs/handlebars.js"></script>
+    <script src="static/js/libs/underscore.js"></script>
+    <script src="static/js/libs/backbone.js"></script>
+
+
+    <!-- Custom JS -->
+    <script>
+        window.BAC = window.BAC || {};
+    </script>
+    <script src="static/js/templates/BacTemplates.js"></script>
+    <script src="static/js/models/BacModel.js"></script>
+    <script src="static/js/views/BacGalleryView.js"></script>
+    <script src="static/js/views/BacOverlayView.js"></script>
+    <script src="static/js/routers/BacRouter.js"></script>
+
+
+</body>
+</html>

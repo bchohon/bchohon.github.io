@@ -1,0 +1,15 @@
+{
+    "client": null,
+    "info": [
+        {
+            "title": "Vector Illustration",
+            "text": "Most digital images (JPGs, GIFs, PNGs) are defined by a grid of pixels. Vector graphics are comprised of paths, which are defined by a start point and an end point, that can be scaled to a larger size without loss of image quality. The red apple is an example of a complex vector illustration, which offers the illusion of a realistic photograph but still retains the freedom to infinitely resize as needed. This piece was created as the accompanying image for a company's popular event series."
+        },
+        {
+            "title": "Wireframe Outline",
+            "text": "The wireframe outline is a behind-the-scenes look at the vector paths and advanced three-dimensional modeling used to create the final illustration."
+        }
+    ],
+    "project": "Apple Vector",
+    "technology": "Adobe Illustrator"
+}

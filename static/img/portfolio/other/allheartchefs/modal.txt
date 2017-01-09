@@ -1,0 +1,174 @@
+    <article id="details" class="vert">
+
+        <section id="images">
+            <div id="main"><img src="static/img/art/folder/detail01.jpg"></div>
+            <div id="alt">
+                <ul id="thumbs">
+                    <li class="active"><img src="static/img/art/folder/alt01.jpg"></li>
+                    <li><img src="static/img/art/folder/alt02.jpg"></li>
+                    <li><img src="static/img/art/folder/alt03.jpg"></li>
+                    <li><img src="static/img/art/folder/alt04.jpg"></li>
+                    <li><img src="static/img/art/folder/alt05.jpg"></li>
+                    <li><img src="static/img/art/folder/alt06.jpg"></li>
+                    <li><img src="static/img/art/folder/alt07.jpg"></li>
+                    <li><img src="static/img/art/folder/alt08.jpg"></li>
+                    <li><img src="static/img/art/folder/alt09.jpg"></li>
+                    <li><img src="static/img/art/folder/alt10.jpg"></li>
+                    <li><img src="static/img/art/folder/alt11.jpg"></li>
+                    <li><img src="static/img/art/folder/alt12.jpg"></li>
+                    <li><img src="static/img/art/folder/alt13.jpg"></li>
+                    <li><img src="static/img/art/folder/alt14.jpg"></li>
+                    <li><img src="static/img/art/folder/alt15.jpg"></li>
+                    <li><img src="static/img/art/folder/alt16.jpg"></li>
+                    <li><img src="static/img/art/folder/alt17.jpg"></li>
+                    <li><img src="static/img/art/folder/alt18.jpg"></li>
+                    <li><img src="static/img/art/folder/alt19.jpg"></li>
+                    <li><img src="static/img/art/folder/alt20.jpg"></li>
+                    <li><img src="static/img/art/folder/alt21.jpg"></li>
+                    <li><img src="static/img/art/folder/alt22.jpg"></li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="info">
+            <hgroup>
+                <h1>allheart<i>chefs</i> Website</h1>
+                <h2>HTML, CSS, jQuery, JavaScript</h2>
+            </hgroup>
+            <ul id="desc">
+                <li>
+                    <h3>Home Page</h3>
+                    <div class="text">
+                        <p>Sister company of online medical apparel retailer allheart.com, allheart<i>chefs</i>.com is a budding eCommerce store focused on the nich&eacute; market of chef apparel, cutlery, and kitchen accessories. The base wireframe layout is the exact same as allheart.com to maintain brand consistency as well as promote ease of internal maintenance between the two different web holdings. The home page advertises current promotions and offers consumers a number of ways to begin shopping, including: a search box, product list filtering, the daily deal, and a tabbed group of products.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Nav Menu</h3>
+                    <div class="text">
+                        <p>The main navigation is presented as a horizontal drop down menu that features icons for the top five most popular categories, text links for all pertaining subcategories and subsections, and a space for optional promotional banners.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Section Page</h3>
+                    <div class="text">
+                        <p>The section page serves as the product sort page, where consumers can refine their product selection by sorting and filtering on options related to the items on the page. Item-specific filtering options include: Brand, Style, Size, Color, and Price.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Section Page (Alternate)</h3>
+                    <div class="text">
+                        <p>The longterm vision for the section page is to change the vertical side refinements to a horizontal orientation, which could then be pinned at the top of the screen when the user scrolls down the page. The new format would also allow more products to be shown above the fold as well as on the greater page.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Section Page (Quick View UI)</h3>
+                    <div class="text">
+                        <p>The section page quick view link launches an abridged version of the product page in a new popup window; everything required to purchase the item is included in the interface, while less important peripheral content such as product reviews and recently viewed is omitted. The quick view interface is optimal for returning consumers who already know what they want and/or users who wish to purchase multiple items from the same section page.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Section Page (Quick View UI - Personalization)</h3>
+                    <div class="text">
+                        <p>A number of products allow for optional embroidery and/or emblem personalization. Once the personalization selector is changed to &quot;Yes&quot;, the personalization interface takes over the popup modal and presents users with available personalization options as well as a live preview. A simple JavaScript function invoked by the onkeyup event powers the real-time preview page manipulation.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Section Page (Quick View UI - Personalization Confirmation)</h3>
+                    <div class="text">
+                        <p>Once the user&rsquo;s personalization options have been selected, the interface switches back to the initial product options view and green confirmation text appears with two accessory buttons allowing the user to edit or remove.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Product Page (Tab 1)</h3>
+                    <div class="text">
+                        <p>The product page details all of the product-specific information, including: Unit pricing, available sizing, color options, images with zoom functionality and alternate views, product description, customer reviews, brand-specific size chart, personalization (if available), and matching item recommendations.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Product Page (Tab 2)</h3>
+                    <div class="text">
+                        <p>An alternate product page view shows the &quot;Reviews&quot; tab selected. Each review is comprised of a one-to-five star rating, a review title, and summary text. The date-time stamp and username are added by the system at the time of submission.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Product Page (Tab 3)</h3>
+                    <div class="text">
+                        <p>An alternate product page view shows the &quot;Size Chart&quot; tab selected. The size chart lists the measurements for Bust, Waist, Hip, and includes an accompanying chart that defines the proper way to measure each body part.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Product Page (Tab 4</h3>
+                    <div class="text">
+                        <p>An alternate product page view shows the &quot;Personalization&quot; tab selected. The personalization information is an overview of available options and includes a number of photography samples of personalized garments.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Product Page (Personalization UI)</h3>
+                    <div class="text">
+                        <p>When a user clicks the &quot;Add Personalization&quot; link, a personalization interface launches in a secondary window that allows users to enter their desired options and then preview their selections without navigating away from the current page.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Shopping Cart</h3>
+                    <div class="text">
+                        <p>The shopping cart details an itemized view of the products in your cart and offers the ability to edit, remove or save items for later. A second itemized view is located at the bottom of the page, where users can manage a list of saved items.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Shopping Cart (Edit Cart UI)</h3>
+                    <div class="text">
+                        <p>Once the shopping cart &quot;Edit&quot; button is clicked, the items inside the cart transform into an editable interface which allows the user to modify their selected options directly on the page. The interface was designed to keep the user contained within the checkout process and always keep the process moving forward, never backwards or sideways.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Shopping Cart (Save Cart UI)</h3>
+                    <div class="text">
+                        <p>The Save Cart interface launches a secondary window that allows users to assign a unique name to the entire cart, which saves all of the items for purchase at a later date. Saved carts can be accessed anytime from the user&rsquo;s personal my account pages when signed-in.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Checkout</h3>
+                    <div class="text">
+                        <p>The checkout features a single page process that collects all of the required user information on one screen. This is a revised approach from the company&rsquo;s previous three-page checkout (i.e. individual billing, shipping, and payment pages).</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Checkout (Sign-in UI)</h3>
+                    <div class="text">
+                        <p>The sign-in interface launches a secondary window that allows users to sign-in to their account without navigating away from the current page.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Checkout (Gift Wrap Info)</h3>
+                    <div class="text">
+                        <p>The following info bubble springs open on mouseover and displays expanded information about the option to Gift Wrap the current purchase.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Checkout (Gift Card Info)</h3>
+                    <div class="text">
+                        <p>The following info bubble springs open on mouseover and displays expanded information about the option to add a handwritten Gift Card to the current purchase.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Checkout (Gift Card UI)</h3>
+                    <div class="text">
+                        <p>The Gift Card interface launches a secondary window that allows users to enter their personalized gift message without navigating away from the current page; the following approach keeps the checkout process moving forward and has resulted in fewer abandoned carts.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Checkout Review</h3>
+                    <div class="text">
+                        <p>The Checkout Review page provides users with one last opportunity to double-check the accuracy of their information and/or modify their existing items in their cart.</p>
+                    </div>
+                </li>
+                <li>
+                    <h3>Checkout Confirmation</h3>
+                    <div class="text">
+                        <p>The Checkout Confirmation page signifies the order was accepted. Once this page is reached, an automated e-mail is triggered and sends the customer a receipt detailing all of the order details.</p>
+                    </div>
+                </li>
+            </ul>
+        </section>
+
+    </article>

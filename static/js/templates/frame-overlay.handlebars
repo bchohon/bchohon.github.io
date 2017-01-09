@@ -1,0 +1,52 @@
+{{!-- Frame Overlay --}}
+<section id="frame-overlay" class="animate">
+    <aside></aside>
+    <main style="height:{{frame.height}}; left:{{frame.left}}; overflow:hidden; top:{{frame.top}}; width:{{frame.width}};">
+        <div id="img-main">
+        {{#each info}}
+            {{#if @first}}
+                <img src="{{image}}" alt="{{title}}">
+            {{/if}}
+        {{/each}}
+        </div>
+        <div id="img-thumbs">
+            {{#if hasPagination}}
+                <figure id="prev">
+                    <img src="/static/img/design/prev.jpg" alt="previous">
+                </figure>
+            {{/if}}
+            <ul>
+                {{#each info}}
+                    <li class="{{#if @first}}selected{{/if}} {{#if isVisible}}show{{/if}}" data-index="{{index}}">
+                        <img src="{{thumbnail}}" alt="{{title}}">
+                    </li>
+                {{/each}}
+            </ul>
+            {{#if hasPagination}}
+                <figure id="next" class="enabled">
+                    <img src="/static/img/design/next.jpg" alt="next">
+                </figure>
+            {{/if}}
+        </div>
+        <div id="img-text">
+            <header>
+                <h1>{{{client}}} &ndash; {{{project}}}</h1>
+                <h2>{{{technology}}}</h2>
+            </header>
+            <ul>
+            {{#each info}}
+                <li {{#if @first}}class="selected"{{/if}}>
+                    <h3>{{{title}}}</h3>
+                    <p>{{{text}}}</p>
+                </li>
+            {{/each}}
+            </ul>
+        </div>
+    </main>
+    <figure class="close"></figure>
+</section>
+
+{{!-- Frame Clone --}}
+<figure id="frame-clone" style="height:{{frame.height}}; left:{{frame.left}}; top:{{frame.top}}; width:{{frame.width}};">
+    <img src="/static/img/portfolio/{{frame.folderNum}}/icon.jpg" alt="">
+</figure>

@@ -1,0 +1,23 @@
+{
+    "client": "180N&trade;",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "180N&trade; is a digital design & development company. It's a multi-faceted business venture which focuses on branding, print design, web design, web development, and consulting services for various size startups and corporations. The company name is a play on words and refers to my personal passion for fix-up projects; I love to turn things around and get them pointed in the right direction."
+        },
+        {
+            "title": "Work Gallery Page",
+            "text": "The work gallery page is the aggregation layer for users to view past projects. The page is broken up into two main sections: 1. Category, which allows users to view work based on project type (such as Branding or Web Design), and 2. Company, which allows users to view work performed for a particular business or brand."
+        },
+        {
+            "title": "Work Sample Page",
+            "text": "The work sample page is where users can view project deliverables in their entirety. Every page takes on a unique custom design so it feels tailored around the work that's being shown. Each page features a hero banner with a general explanation about the company, a color palette grid, a breakdown of supported resolutions, and a few of the most important pages."
+        },
+        {
+            "title": "Contact Page",
+            "text": "The contact page features all of the necessary company information and a contact form is present to drive lead generation and answer general comments. A section for Frequently Asked Questions is located at the bottom of the page and its primary purpose is to answer common questions and coax the user back up to the contact form or into contacting the business via email."
+        }
+    ],
+    "project": "Corporate Website",
+    "technology": "HTML, CSS, JavaScript, PHP"
+}

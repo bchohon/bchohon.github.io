@@ -1,0 +1,87 @@
+{
+    "client": "allheart",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "allheart.com is an eCommerce superstore and the industry-leading retailer for online medical apparel, nursing footwear, and small diagnostics. The home page advertises current promotions and offers consumers a number of ways to shop, including: search box, by color or size, and a selection of quick category links."
+        },
+        {
+            "title": "Footer",
+            "text": "The website footer offers users the opportunity to view the expanded desktop site instead of the mobile version. A collection of supplementary company and social media links are also included for easy access to reach out to the company or its sales associates."
+        },
+        {
+            "title": "Nav Menu",
+            "text": "The header menu icon activates the nav menu, which pushes the main website content aside and reveals a complete list of all of the website pages. The top-level categories toggle an expand/collapse accordion interface, so users can refine their search with more specificity."
+        },
+        {
+            "title": "Sort Page",
+            "text": "The sort page is the most visited page on the mobile website. This feature allows users to view a collection of similar products on the same screen. Additional items are lazy-loaded onscroll and provide shoppers with an infinite shopping experience."
+        },
+        {
+            "title": "Sort Page (Filter Options)",
+            "text": "If a user clicks on the \"Filter\" button, the filter options spring up from the bottom of the viewport and overtake the entire page. Filter options allow users to refine their search by key criteria, including: Category, Brand, Collection, Size, Color, and more."
+        },
+        {
+            "title": "Product Page",
+            "text": "The product page is where users can learn everything they want to know about their chosen product selection. The most important information, such as imagery, name, rating, price and color palette, are presented at the top of the page."
+        },
+        {
+            "title": "Product Page",
+            "text": "As a user scrolls down the page, they are presented with all of the product customization options like color, size, and quantity, as well as other supplementary information such as description, reviews, size chart, and personalization options."
+        },
+        {
+            "title": "Product Page (Description)",
+            "text": "The \"Description\" line item is collapsed by default to keep the page compact and streamlined. However, onclick the panel expands to reveal a detailed manufacturer description about the product."
+        },
+        {
+            "title": "Product Page (Reviews)",
+            "text": "Since the number of product reviews are variable in both length and number, the \"Reviews\" line item links to a separate interface. A sort option is provided at the top of the page on a fixed header and more reviews are lazy-loaded onscroll."
+        },
+        {
+            "title": "Product Page (Size Chart)",
+            "text": "The \"Size Chart\" line item on the main product page launches another unique interface for all size-related content. The size chart page includes: a sizing table, inseam notes, and a special visual diagram for shoppers who may be unfamiliar with how measurements are ascertained."
+        },
+        {
+            "title": "Product Page (Personalization)",
+            "text": "The \"Personalization\" line item is an informational page. The primary purpose is to upsell and educate shoppers on available options. These options include: thread color, font style, emblem type, applicable products, and special notes regarding forbidden character entities as well as other important return disclaimers."
+        },
+        {
+            "title": "Product Page (Add Personalization)",
+            "text": "If a user decides to add personalization, a personalization widget slides up from the bottom of the screen and overtakes the product page. Shoppers can chose where on the garment they would like to add the embroidery/emblem, thread color, font style, and enter a custom message."
+        },
+        {
+            "title": "Product Page (Add Personalization)",
+            "text": "The widget also includes a preview interface at the bottom of the page, so shoppers can view their customized selection and proofread for any typos. This was an important requirement for the page since personalized items may not be returned once embroidered."
+        },
+        {
+            "title": "Shopping Cart",
+            "text": "The shopping cart is where users can view all of the items they've added. Shoppers can either update or delete specific items, or proceed to the checkout flow."
+        },
+        {
+            "title": "Checkout (Billing Info)",
+            "text": "The checkout flow is broken up into three easy steps. Step 1 is to enter your billing address information."
+        },
+        {
+            "title": "Checkout (Billing Info)",
+            "text": "A copy of the shopping cart is included at the bottom of the page. The order summary information is dynamically updated as the user enters their postal code and shipping costs and taxes are assessed. The \"Submit Order\" button is always available on the page and becomes active once all required fields are filled-in and have passed client-side validation."
+        },
+        {
+            "title": "Checkout (Shipping Info)",
+            "text": "Step 2 is where users enter their shipping address information. A checkbox interface is conveniently located at the top so users have the option to auto-fill the shipping fields using the same information provided on the billing address portion of the form."
+        },
+        {
+            "title": "Checkout (Payment Info)",
+            "text": "Step 3 is the final step of the process and is where shoppers can select their chosen payment methods and may redeem any promotional discounts and/or gift certificates."
+        },
+        {
+            "title": "Checkout (Review & Submit)",
+            "text": "Before the purchase is submitted to the store for fulfillment, users are granted one final opportunity to review their information for accuracy."
+        },
+        {
+            "title": "Checkout (Review & Submit)",
+            "text": "Once all of the required fields have been filled-in, the order summary price located at the bottom of the interface dynamically adjusts to reflect any shipping, discounts, and/or taxes. The \"Submit Order\" button also updates to an enabled state which allows the user to proceed with the purchase."
+        }
+    ],
+    "project": "Mobile eCommerce Store",
+    "technology": "HTML, CSS, JavaScript"
+}

@@ -1,0 +1,51 @@
+{
+    "client": "AIA, Inc.",
+    "info": [
+        {
+            "title": "Home Page",
+            "text": "AIA is the industry-leading Insurance Surety and provides coverage to bail bondsman nationwide. The primary purpose of the website is to serve as an informational resource to potential clients. The home page highlights a mixture of what the site has to offer, including: key selling points about the company, a sample of the latest industry news, affiliate social media channels, and most importantly, the company's contact information."
+        },
+        {
+            "title": "Nav Menu",
+            "text": "The main navigation is an animated dropdown menu that opens on mouseover. The dropdown menu features a small 100 millisecond delay to prevent accidental mouseover and unwanted triggering of the menu."
+        },
+        {
+            "title": "News",
+            "text": "The news portal is a resource repository for both company news and trending industry topics. The majority of articles are written by company staff, while others are contributed by hired writers and esteemed industry counterparts. The article title and a teaser snippet of sample text is sorted by date, then archived and paginated accordingly. Articles can be read in their entirety by clicking on the \"Read more\" text link."
+        },
+        {
+            "title": "News Article",
+            "text": "Every news article has its own landing page, which may include accompanying imagery and/or embedded content as determined by the author. News articles can be read online or optionally downloaded to PDF format by clicking on the \"Printer Friendly Version\" text link at the bottom of each page."
+        },
+        {
+            "title": "History",
+            "text": "The History landing page contains a brief synopsis of the company's storied past, which dates back as far as 1904. An accompanying image breaks up the text and provides visual interest to the page."
+        },
+        {
+            "title": "Nationwide Network",
+            "text": "One of the biggest differences that separates the company from its competition is the extent of their coverage, which spans across the continental United States. Being such an important selling point and distinguishing feature for the business, the following information is spotlighted with its own subsection under the \"About AIA\" menu item."
+        },
+        {
+            "title": "Executive Team",
+            "text": "The Executive Team landing page lists the upper management hierarchy by name and title. Every line is a text link, which takes the user to an expanded profile page that details important biographical information about the chosen party."
+        },
+        {
+            "title": "Executive Profile",
+            "text": "The following is an example of one executive team member's profile page. Each profile page covers past education and experience, any industry recognition and/or awards, as well as their current role, day-to-day responsibilities within the company, and how they can positively impact each client."
+        },
+        {
+            "title": "Insurance Departments by State",
+            "text": "As a way of encouraging clients to always think of the company first, an extensive Resources section serves as an aggregate gateway for relevant third-party content, including important government website links and detailed industry listings. The following page lists every Insurance Department by State, which is a commonly used resource for the practicing bondsman."
+        },
+        {
+            "title": "Bail Associations",
+            "text": "Another useful section located underneath the \"Resources\" menu item lists the various Bail Associations across the country as well as their pertinent contact information."
+        },
+        {
+            "title": "Company Contact",
+            "text": "The last menu item on the main navigation is the \"Contact\" tab. The subsequent landing page lists all of the company's contact methods, including the option for the company to contact the user."
+        }
+    ],
+    "project": "Corporate Website",
+    "technology": "HTML, CSS, JavaScript"
+}

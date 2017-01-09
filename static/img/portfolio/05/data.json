@@ -1,0 +1,39 @@
+{
+    "client": "allheart",
+    "info": [
+        {
+            "title": "Login Screen",
+            "text": "allheart.com is an eCommerce superstore and the industry-leading online retailer for medical apparel, nursing footwear, and small diagnostics. The following Content Management System is a custom cloud-based application designed to improve productivity and streamline the interoffice workflow. The login page is the entry point for existing users."
+        },
+        {
+            "title": "List View",
+            "text": "The \"Product Adds\" section is a work environment tailored for entry-level Web Editors, whose primary responsibility is building out new products and modifying existing ones for publish to the eCommerce store. The \"List View\" interface is the first step in the process and allows the editor to select available adds from a live feed, which is sorted by ETA priority."
+        },
+        {
+            "title": "My Workbook",
+            "text": "The \"My Workbook\" interface is where Web Editors can interact with the SKUs they've selected. Each product is organized by existing or new category. Then the system assigns a flag to each item, which signifies the level of completion: a green flag means all assets are completed; an orange flag means the assets are partially complete; and, a red flag means no assets currently exist. A minimum of three assets are required before a product can go live: a description, at least one color swatch, and at least one image. The missing assets are highlighted with a distinct light yellow background."
+        },
+        {
+            "title": "My Workbook",
+            "text": "The merchandising department has the ability to include special notes related to a particular SKU. An item with notes is signified by an icon, which launches an info bubble onclick. Typical notes include the location of assets or special editing instructions. Web Editors have the ability to work from the \"My Workbook\" page via the provided inputs. Or, for more complex products, they can launch an expanded editing interface by clicking on the magnification icon next to the inputs."
+        },
+        {
+            "title": "My Workbook Modal",
+            "text": "The expanded editing interface is broken up into three tabs. The \"Description\" tab provides editors with a textarea for entering raw HTML product descriptions. A live preview displays their results as they type. A simple JavaScript handler invoked by the onkeyup event powers the real-time preview feature."
+        },
+        {
+            "title": "My Workbook Modal",
+            "text": "The \"Swatches\" tab allows editors to easily identify missing color swatches, which are marked with a distinct light yellow background and accompanying gray slash image. The input fields accept either a hexadecimal value for solid colors or an image URL for two-toned items and prints. A simple JavaScript handler invoked by the onkeyup event powers the real-time preview feature."
+        },
+        {
+            "title": "My Workbook Modal",
+            "text": "The \"Images\" tab is the final step of the product add process and allows editors to perform visual QA before the item is added to the eCommerce store. The interface features a fully functioning replica of the product page, including image swap and zoom functionality. Lastly, a series of checkboxes are provided for editors to flag problematic items. All flagged items will be immediately removed from the product add process and will end up on the top of the merchandising department queue."
+        },
+        {
+            "title": "In Progress",
+            "text": "The \"In Progress\" interface provides a vantage point for tracking velocity and monitoring the status of all products in flight. Managers can accurately measure deadelines and company expectations, while Web Editors have visibility to see what their peers are working on. The CMS only grants permissions for Web Editors to interact with their own individual workbook, so it was important to streamline communication between the team and allow all adds to be viewable."
+        }
+    ],
+    "project": "Content Management System",
+    "technology": "HTML, CSS, JavaScript"
+}
